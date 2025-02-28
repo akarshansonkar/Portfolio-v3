@@ -17,7 +17,7 @@ Follow these steps to set up and run the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sushain-gupta/Portfolio-v3.git
+   git clone https://github.com/akarshansonkar/Portfolio-v3.git
    ```
 
 2. Install dependencies:
