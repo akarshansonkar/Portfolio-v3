@@ -9,7 +9,7 @@ export default defineConfig(() => {
 			host: "0.0.0.0",
 		},
 		build: {
-			outDir: "build",
+			outDir: "dist",
 		},
 		plugins: [react(), svgr({ svgrOptions: { icon: true } })],
 	};
