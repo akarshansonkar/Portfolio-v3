@@ -3,10 +3,6 @@ export const about = {
 	lastName: "Sonkar",
 	gender: "male",
 	logo: "https://res.cloudinary.com/dmjexnw0x/image/upload/v1739469574/t3tzl6aqm0fkenxsfxwa.png",
-	// primaryProfileImage:
-	// "https://res.cloudinary.com/sushain/image/upload/v1694956988/Portfolio/image_23_1_ky1bkw.png",
-	// secondaryProfileImage:
-	// "https://res.cloudinary.com/sushain/image/upload/v1694690201/Portfolio/Untitled_design_2_sxfvbm.png",
 	email: "work.at.akarshan@gmail.com",
 	shortDesc:
 		"An India-based freelancer who's into web development as well as automation and open to work as a full-stack developer.",
@@ -18,10 +14,9 @@ export const about = {
 		linkedin: "https://www.linkedin.com/in/akarshan-sonkar-a101301a1/",
 		github: "https://github.com/akarshansonkar",
 		instagram: "https://www.instagram.com/botbuilder.ai/",
-		// twitter: "https://www.twitter.com/sushain.gupta",
 	},
 	resumeLink:
-		"https://firebasestorage.googleapis.com/v0/b/sushains-portfolio.appspot.com/o/Sushain%20Rajesh%20Gupta.pdf?alt=media&token=f5b88dc0-f934-4a42-a0b0-844e793947d0",
+		"https://asset.cloudinary.com/dmjexnw0x/dd4c24743f5e4e71cf629d56094c320d",
 
-	hostedUrl: "https://sushaingupta.vercel.app",
+	hostedUrl: "https://portfolio-v3-khaki-five.vercel.app/",
 };
