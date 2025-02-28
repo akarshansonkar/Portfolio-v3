@@ -3,7 +3,8 @@ export const about = {
 	lastName: "Sonkar",
 	gender: "male",
 	logo: "https://res.cloudinary.com/dmjexnw0x/image/upload/v1739469574/t3tzl6aqm0fkenxsfxwa.png",
-	email: "work.at.akarshan@gmail.com",
+	// email: "work.at.akarshan@gmail.com",
+	email: "contact@akarshan.tech",
 	shortDesc:
 		"An India-based freelancer who's into web development as well as automation and open to work as a full-stack developer.",
 	longDesc: [
